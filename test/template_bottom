@@ -1,0 +1,7 @@
+
+
+        sub_filter_once off;
+        sub_filter_types *;    
+        sub_filter_last_modified on;      
+    }
+}
